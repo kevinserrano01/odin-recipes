@@ -1,0 +1,48 @@
+* {
+    border: black;
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 2em;
+    font-family: sans-serif;
+    color: rgb(249, 253, 0);
+    background-color: #000;
+    width: 100vw;
+    height: 14vh;
+    line-height: 2;
+    font-weight: 800;
+    font-stretch: normal;
+    font-variant: small-caps;
+}
+
+h2 {
+    font-size: 2em;
+    font-family: sans-serif;
+    color: rgb(211, 208, 39);
+    background-color: #000;
+    width: 100vw;
+    height: 14vh;
+    line-height: 2;
+    font-weight: 700;
+    font-stretch: normal;
+    font-variant: small-caps;
+}
+
+.lista {
+    font-size: 2em;
+    font-family: sans-serif;
+    color: rgb(252, 247, 0);
+    background-color: rgb(255, 253, 142);
+    width: 50vw;
+    height: 40vh;
+    line-height: 2;
+    font-weight: 500;
+    font-stretch: normal;
+    font-variant: small-caps;
+}
+
+.lista:hover {
+    color: crimson;
+}
